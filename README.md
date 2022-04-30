@@ -1,6 +1,3 @@
-# paintingpack-chadf
-A small repository for uploading images to be used in a bibliocraft painting texturepack. Collaborators only.
-
 # For collaborators:
 
 ### 1. Click the "assets" directory;
